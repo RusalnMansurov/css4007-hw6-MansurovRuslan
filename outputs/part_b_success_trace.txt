@@ -1,0 +1,342 @@
+Initial state:
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 4: state=0, action=Down, next_state=4, reward=0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 5: state=4, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 6: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 7: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 8: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 9: state=0, action=Down, next_state=4, reward=0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 10: state=4, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 11: state=0, action=Down, next_state=4, reward=0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 12: state=4, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 13: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 14: state=0, action=Left, next_state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 15: state=0, action=Left, next_state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 16: state=0, action=Right, next_state=1, reward=0
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 17: state=1, action=Left, next_state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 18: state=0, action=Right, next_state=1, reward=0
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 19: state=1, action=Up, next_state=1, reward=0
+  (Up)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 20: state=1, action=Right, next_state=2, reward=0
+  (Right)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 21: state=2, action=Up, next_state=2, reward=0
+  (Up)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 22: state=2, action=Right, next_state=3, reward=0
+  (Right)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 23: state=3, action=Right, next_state=3, reward=0
+  (Right)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 24: state=3, action=Left, next_state=2, reward=0
+  (Left)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 25: state=2, action=Right, next_state=3, reward=0
+  (Right)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 26: state=3, action=Left, next_state=2, reward=0
+  (Left)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 27: state=2, action=Right, next_state=3, reward=0
+  (Right)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 28: state=3, action=Up, next_state=3, reward=0
+  (Up)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 29: state=3, action=Up, next_state=3, reward=0
+  (Up)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 30: state=3, action=Left, next_state=2, reward=0
+  (Left)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 31: state=2, action=Up, next_state=2, reward=0
+  (Up)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 32: state=2, action=Right, next_state=3, reward=0
+  (Right)
+SFF[41mF[0m
+FHFH
+FFFH
+HFFG
+
+Step 33: state=3, action=Left, next_state=2, reward=0
+  (Left)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 34: state=2, action=Left, next_state=1, reward=0
+  (Left)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 35: state=1, action=Right, next_state=2, reward=0
+  (Right)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 36: state=2, action=Down, next_state=6, reward=0
+  (Down)
+SFFF
+FH[41mF[0mH
+FFFH
+HFFG
+
+Step 37: state=6, action=Down, next_state=10, reward=0
+  (Down)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+
+Step 38: state=10, action=Left, next_state=9, reward=0
+  (Left)
+SFFF
+FHFH
+F[41mF[0mFH
+HFFG
+
+Step 39: state=9, action=Left, next_state=8, reward=0
+  (Left)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+
+Step 40: state=8, action=Right, next_state=9, reward=0
+  (Right)
+SFFF
+FHFH
+F[41mF[0mFH
+HFFG
+
+Step 41: state=9, action=Right, next_state=10, reward=0
+  (Right)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+
+Step 42: state=10, action=Down, next_state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 43: state=14, action=Down, next_state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 44: state=14, action=Down, next_state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 45: state=14, action=Down, next_state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 46: state=14, action=Down, next_state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 47: state=14, action=Down, next_state=14, reward=0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 48: state=14, action=Right, next_state=15, reward=1
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF[41mG[0m

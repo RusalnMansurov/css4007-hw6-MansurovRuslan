@@ -1,0 +1,5 @@
+Boundary: passed
+Wall: passed
+Ice probabilities sum to 1: passed
+Mud, sand and water rewards: passed
+Terminal states give no further rewards: passed

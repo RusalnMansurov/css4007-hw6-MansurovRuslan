@@ -1,0 +1,13 @@
+slippery,policy,batch_seed,goals,holes,time_limits,success_percent,mean_steps
+False,random,11,0,50,0,0.0,6.46
+False,random,22,1,49,0,2.0,8.52
+False,random,33,0,50,0,0.0,7.5
+False,fixed,11,50,0,0,100.0,6.0
+False,fixed,22,50,0,0,100.0,6.0
+False,fixed,33,50,0,0,100.0,6.0
+True,random,11,0,50,0,0.0,8.16
+True,random,22,2,48,0,4.0,8.98
+True,random,33,2,48,0,4.0,7.92
+True,fixed,11,3,47,0,6.0,4.68
+True,fixed,22,3,47,0,6.0,5.46
+True,fixed,33,0,50,0,0.0,4.08

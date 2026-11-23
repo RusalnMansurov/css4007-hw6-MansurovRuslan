@@ -1,0 +1,41 @@
+Initial state:
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: state=0, action=Up, next_state=0, reward=0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: state=0, action=Left, next_state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: state=0, action=Left, next_state=0, reward=0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 4: state=0, action=Right, next_state=1, reward=0
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 5: state=1, action=Down, next_state=5, reward=0
+  (Down)
+SFFF
+F[41mH[0mFH
+FFFH
+HFFG

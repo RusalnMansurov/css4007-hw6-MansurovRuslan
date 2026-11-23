@@ -1,0 +1,7 @@
+map,batch_seed,goals,holes,time_limits,mean_steps,mean_discounted_return
+Part A,11,47,3,0,5.04,2.229704
+Part A,22,44,6,0,4.96,1.442384
+Part A,33,42,8,0,4.88,0.969992
+Extended map,11,50,0,0,5.0,1.502
+Extended map,22,50,0,0,5.0,1.502
+Extended map,33,50,0,0,5.0,1.502
